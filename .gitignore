@@ -2,7 +2,6 @@ skpro/
 
 .idea/
 .lsp/
-.vscode/
 .env
 .venv/
 venv/
@@ -21,3 +20,7 @@ docs/site/
 .qodo
 poetry.lock
 .log
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
